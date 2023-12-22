@@ -1,0 +1,13 @@
+{
+    "nome": "Bruno",
+    "time": "aviador",
+    "vivo": "True",
+    "energia": 100,
+    "mochila": ["corda", "linha", "arame", "escada"],
+    "aeronaves": [
+        { "tipo": "transporte", "habilidade": 80 },
+        { "tipo": "ataque", "habilidade": 100 },
+        { "tipo": "reconhecimento", "habilidade": 50 },
+        { "tipo": "defesa", "habilidade": 30 }
+    ]
+}
